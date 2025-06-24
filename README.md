@@ -1,8 +1,9 @@
 # RBPi
 
-Raspibarry Pi 4
+Hardware: Raspibarry Pi 4
 
 Imager Filename: imager_1.9.4.exe
+
 Image Filename: 2025-05-13-raspios-bookworm-arm64-lite.img
 
 ## Turn WiFi On
